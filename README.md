@@ -1,5 +1,4 @@
 # warlang
-Wargame solutions in Erlang
 
 I've wanted to learn Erlang for a while now and I figured I'd put it to work on something fun, like offensive security!
 
